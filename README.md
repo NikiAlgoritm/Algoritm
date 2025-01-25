@@ -1,0 +1,2 @@
+# Algoritm
+Cod Memory card
